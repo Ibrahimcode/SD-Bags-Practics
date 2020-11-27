@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472261068884",
+    "firebase_url": "https://sd-bags.firebaseio.com",
+    "project_id": "sd-bags",
+    "storage_bucket": "sd-bags.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472261068884:android:ca6327c686fe86d77f05c1",
+        "android_client_info": {
+          "package_name": "com.example.sdbags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472261068884-6muh4kcbr8bfsrlk3a5scv1320ia35ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdbags",
+            "certificate_hash": "37b1adb4a94942188e40ffbaced65ecc9d64c210"
+          }
+        },
+        {
+          "client_id": "472261068884-m72rnda8u9vfnsrmghvpehp38fufral8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABh-STlISQO-Vw0eZf7C426anAWuogeeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472261068884-m72rnda8u9vfnsrmghvpehp38fufral8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
